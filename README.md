@@ -1,3 +1,7 @@
+<img width="960" alt="Screenshot 2025-03-16 193702" src="https://github.com/user-attachments/assets/bcae2854-7670-4eac-9c5c-041243370b60" />
+<img width="960" alt="Screenshot 2025-03-16 193626" src="https://github.com/user-attachments/assets/9ee8883a-f504-4806-9945-ba044329efb9" />
+<img width="960" alt="Screenshot 2025-03-16 193555" src="https://github.com/user-attachments/assets/152a1444-19e1-4bdf-ad6c-b302fe70331b" />
+<img width="960" alt="Screenshot 2025-03-16 193509" src="https://github.com/user-attachments/assets/db83d58e-f6fa-4964-ade2-92a9ceb694fb" />
 # Personal-AI-Assistant
 
 🚀 Built My Own AI Assistant Using Python & Tkinter! 🤖🎙️
